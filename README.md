@@ -1,4 +1,4 @@
-# User-Name-Cheker-Telegram-Fragment
+# User-Name-Checker-Telegram-Fragment
 
 A simple script to check username availability.
 
