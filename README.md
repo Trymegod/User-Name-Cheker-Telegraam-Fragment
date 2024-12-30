@@ -1,9 +1,13 @@
 # User-Name-Cheker-Telegraam-Fragment
 
-Простой скрипт для проверки доступности юзернеймов.
+A simple script to check username availability.
+
+## Installation
+
+Install the required dependencies:
 
 pip install -r requirements.txt
 
-Добавьте юзеры в username.txt
+Add usernames to username.txt
 
-Ожидайте проверку
+Run the script
